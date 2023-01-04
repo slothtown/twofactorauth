@@ -9,6 +9,14 @@
     "recovery": "https://depophelp.zendesk.com/hc/en-gb/articles/360017003737",
     "keywords": [
       "retail"
+    ],
+    "regions": [
+      "gb",
+      "au",
+      "de",
+      "fr",
+      "it",
+      "us"
     ]
   }
 }
